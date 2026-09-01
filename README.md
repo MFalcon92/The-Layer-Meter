@@ -1,2 +1,4 @@
 # The-Layer-Meter
-contains files to build the Layer Meter
+The Layer Meter is a small device with a temperature sensor on the back. you can set it up by a window with the sensor outside. Its job is to tell you what type of layers you will need to wear depending on the temperature so you can feel comfy without having to go outside first. Its different than the weather app because if you check that you have to determine what weather is good for different pieces of clothing, and it is not specific to your area. The Layer Meter targets where you are because it is right next outside your house. The weather app could be really wrong just because one specific area is very different than the rest.
+
+To use the Layer Meter, simply place the temperature sensor out your window, and flip the power switch. the screen will light up, displaying the temperature and the recomende clothing. The temperature updates every couple of seconds so there wont be any random flukes.
